@@ -1,0 +1,3 @@
+Pillow
+py_librus_api
+requests
