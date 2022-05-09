@@ -16,3 +16,5 @@ python auto.py
 6. Podaj login i hasło do librusa
 7. Przejdź do sekcji *policz średnią*
 8. Wybierz przedmiot i naciśnij *Zatwierdź*
+
+#### Odpowiednik na [androida](https://github.com/stsio14/LibrusAppMobile) 
