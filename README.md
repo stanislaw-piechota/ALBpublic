@@ -17,4 +17,4 @@ python auto.py
 7. Przejdź do sekcji *policz średnią*
 8. Wybierz przedmiot i naciśnij *Zatwierdź*
 
-#### Odpowiednik na [androida](https://github.com/stsio14/LibrusAppMobile) 
+#### Odpowiednik na [androida](https://github.com/stasio14/LibrusAppMobile) 
